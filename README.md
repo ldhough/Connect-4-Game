@@ -8,3 +8,5 @@ Contributions:
 Aaron Stewart - Most of the model
 Dan Plante - ButtonListener class
 Dalton Hough - Full GUI and MVC implementation, test cases
+
+View Connect4Demo.png for example of gameplay.
